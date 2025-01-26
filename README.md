@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm [Your Name] 👋  
 
-<!--
-**fiansiburian11/fiansiburian11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Web3 Developer | Next.js & Tailwind CSS Enthusiast  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack  
+- **Framework:** Next.js (App Router), React.js  
+- **Styling:** Tailwind CSS  
+- **Hosting:** Vercel  
+- **Blockchain:** Web3.js, Ethers.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+### 📫 Connect with me:  
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- Portfolio: [Your Website](https://yourwebsite.com)  
+
+✨ *Let’s build something amazing together!*  
