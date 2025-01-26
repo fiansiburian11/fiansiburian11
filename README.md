@@ -74,17 +74,6 @@ I am a **Computer Science student**, passionate about web development, especiall
 
 ---
 
-<!-- RECENT PROJECTS -->
-### 🚀 My Recent Projects  
-
-| Project Name | Description | Tech Stack | Demo |
-|--------------|-------------|------------|------|
-| **Portfolio Website** | A personal portfolio using Next.js & Tailwind CSS | Next.js, Tailwind CSS, Vercel | [Live Demo](https://yourportfolio.com) |
-| **Task Manager App** | A React-based task management application | React.js, CSS | [Live Demo](https://yourproject.com) |
-| **Android Weather App** | A simple weather app for Android devices | Java, Android Studio | [Live Demo](https://yourproject.com) |
-
----
-
 <!-- CONNECT WITH ME -->
 ### 🤝 Let's Connect  
 
@@ -105,17 +94,18 @@ I am a **Computer Science student**, passionate about web development, especiall
 
 ⭐️ From [Fian Siburian](https://github.com/YourUsername)
 
-<!-- snake graph -->
+<!-- Snake graph -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fiansiburian11/fiansiburian11/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fiansiburian11/fiansiburian11/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/fiansiburian11/fiansiburian11/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
 <!-- <h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4> -->
 </div>
-<br>
-<div align="left">
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&theme=github-compact&radius=16" height="auto" alt="by bye"/>
 
+<br>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiansiburian11&theme=github-compact&radius=16" height="auto" alt="by fiansiburian11"/>
+</div>
