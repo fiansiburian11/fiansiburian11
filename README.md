@@ -8,8 +8,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/firman-parulian-siburian-4416832b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/fiansiburian_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=circle&logoColor=white"/></a>
-  <a href="https://your-cv-link.com" target="_blank"><img src="https://img.shields.io/badge/CV-009688?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://firmanps.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=circle&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/192cB5uve6DTUA7bduQXWQu302pCHnrX_/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/CV-009688?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
   <a href="mailto:bukanfirman11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -18,19 +18,10 @@
 <!-- ABOUT ME -->
 ### 👨‍💻 About Me
 
-I am a **Computer Science student** and **Full Stack Developer** passionate about building end-to-end web solutions. My expertise spans both frontend and backend technologies, with focus on creating seamless user experiences and robust server-side systems.
+Saya adalah mahasiswa Ilmu Komputer sekaligus Full Stack Developer yang memiliki antusiasme tinggi dalam membangun solusi web menyeluruh, mulai dari frontend hingga backend. Keahlian saya mencakup pengembangan antarmuka pengguna yang intuitif hingga sistem server yang andal dan efisien.
 
-🔭 **Currently working on:**  
-- Developing full-stack applications with modern stacks  
-- Optimizing full development lifecycle workflows  
-- Implementing CI/CD pipelines  
+✨ Saya senantiasa mengeksplorasi teknologi baru untuk menciptakan solusi yang skalabel. Mari terhubung dan berkolaborasi dalam proyek-proyek inovatif!
 
-🌱 **Currently learning:**  
-- Cloud infrastructure (AWS/Azure)  
-- Containerization with Docker  
-- Advanced database optimization  
-
-✨ Always exploring new technologies to build scalable solutions. Let's connect and collaborate on innovative projects!
 
 ---
 
@@ -66,8 +57,6 @@ I am a **Computer Science student** and **Full Stack Developer** passionate abou
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -85,32 +74,6 @@ I am a **Computer Science student** and **Full Stack Developer** passionate abou
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiansiburian11&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-<!-- PROJECT SHOWCASE -->
-### 🏆 Featured Projects
-
-1. **[E-Commerce Platform](https://github.com/yourrepo)**  
-   Full-stack e-commerce solution with payment integration  
-   `React` `Node.js` `MongoDB` `Stripe API`
-
-2. **[Task Management System](https://github.com/yourrepo)**  
-   Real-time collaborative task manager  
-   `Next.js` `WebSockets` `PostgreSQL`
-
----
-
-<!-- CONNECT WITH ME -->
-### 🤝 Let's Connect  
-
-<p align="center">
-  <a href="https://linkedin.com/in/firman-parulian-siburian-4416832b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/fiansiburian_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://firmanps.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=circle&logoColor=white"/></a>
-  <a href="https://your-cv-link.com" target="_blank"><img src="https://img.shields.io/badge/CV-009688?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
-  <a href="mailto:bukanfirman11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
